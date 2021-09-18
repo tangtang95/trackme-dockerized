@@ -1,0 +1,162 @@
+[
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000008",
+      "firstName": "Buster",
+      "lastName": "Hayes",
+      "birthDate": -354848400000,
+      "birthCity": "North Albastad",
+      "birthNation": "Tanzania"
+    },
+    "timestamp": 596498874808,
+    "heartBeat": 183,
+    "bloodOxygenLevel": 70,
+    "pressureMin": 66,
+    "pressureMax": 145
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000003",
+      "firstName": "Bobby",
+      "lastName": "Durgan",
+      "birthDate": 90889200000,
+      "birthCity": "New Tiffanyfort",
+      "birthNation": "Lao People's Democratic Republic"
+    },
+    "timestamp": 1153900367101,
+    "heartBeat": 120,
+    "bloodOxygenLevel": 50,
+    "pressureMin": 124,
+    "pressureMax": 167
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000001",
+      "firstName": "Izaiah",
+      "lastName": "Rogahn",
+      "birthDate": -479610000000,
+      "birthCity": "Port Geraldine",
+      "birthNation": "Tuvalu"
+    },
+    "timestamp": 1108709625833,
+    "heartBeat": 176,
+    "bloodOxygenLevel": 55,
+    "pressureMin": 97,
+    "pressureMax": 141
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000001",
+      "firstName": "Izaiah",
+      "lastName": "Rogahn",
+      "birthDate": -479610000000,
+      "birthCity": "Port Geraldine",
+      "birthNation": "Tuvalu"
+    },
+    "timestamp": 55853547759,
+    "heartBeat": 191,
+    "bloodOxygenLevel": 66,
+    "pressureMin": 101,
+    "pressureMax": 105
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000009",
+      "firstName": "Alexanne",
+      "lastName": "Ferry",
+      "birthDate": 839541600000,
+      "birthCity": "Gerardland",
+      "birthNation": "Pitcairn Islands"
+    },
+    "timestamp": 947784299137,
+    "heartBeat": 41,
+    "bloodOxygenLevel": 98,
+    "pressureMin": 66,
+    "pressureMax": 167
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000002",
+      "firstName": "Jo",
+      "lastName": "Gusikowski",
+      "birthDate": -513997200000,
+      "birthCity": "Jacksonside",
+      "birthNation": "Moldova"
+    },
+    "timestamp": 1308575724337,
+    "heartBeat": 143,
+    "bloodOxygenLevel": 107,
+    "pressureMin": 127,
+    "pressureMax": 157
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000002",
+      "firstName": "Jo",
+      "lastName": "Gusikowski",
+      "birthDate": -513997200000,
+      "birthCity": "Jacksonside",
+      "birthNation": "Moldova"
+    },
+    "timestamp": -193179066540,
+    "heartBeat": 92,
+    "bloodOxygenLevel": 73,
+    "pressureMin": 80,
+    "pressureMax": 106
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000001",
+      "firstName": "Izaiah",
+      "lastName": "Rogahn",
+      "birthDate": -479610000000,
+      "birthCity": "Port Geraldine",
+      "birthNation": "Tuvalu"
+    },
+    "timestamp": -162241360219,
+    "heartBeat": 81,
+    "bloodOxygenLevel": 59,
+    "pressureMin": 124,
+    "pressureMax": 128
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000008",
+      "firstName": "Buster",
+      "lastName": "Hayes",
+      "birthDate": -354848400000,
+      "birthCity": "North Albastad",
+      "birthNation": "Tanzania"
+    },
+    "timestamp": 558493208623,
+    "heartBeat": 103,
+    "bloodOxygenLevel": 119,
+    "pressureMin": 116,
+    "pressureMax": 111
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000001",
+      "firstName": "Izaiah",
+      "lastName": "Rogahn",
+      "birthDate": -479610000000,
+      "birthCity": "Port Geraldine",
+      "birthNation": "Tuvalu"
+    },
+    "timestamp": 391546629926,
+    "heartBeat": 134,
+    "bloodOxygenLevel": 67,
+    "pressureMin": 122,
+    "pressureMax": 148
+  }
+]

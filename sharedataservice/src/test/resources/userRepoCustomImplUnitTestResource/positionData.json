@@ -1,0 +1,142 @@
+[
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000001",
+      "firstName": "Izaiah",
+      "lastName": "Rogahn",
+      "birthDate": -479610000000,
+      "birthCity": "Port Geraldine",
+      "birthNation": "Tuvalu"
+    },
+    "timestamp": 248358774550,
+    "longitude": -5.39535,
+    "latitude": 30.00753
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000009",
+      "firstName": "Alexanne",
+      "lastName": "Ferry",
+      "birthDate": 839541600000,
+      "birthCity": "Gerardland",
+      "birthNation": "Pitcairn Islands"
+    },
+    "timestamp": 1032802204207,
+    "longitude": -43.01836,
+    "latitude": -49.20836
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000000",
+      "firstName": "Jerome",
+      "lastName": "Emmerich",
+      "birthDate": -79581600000,
+      "birthCity": "West Rashadfort",
+      "birthNation": "Equatorial Guinea"
+    },
+    "timestamp": 160341914341,
+    "longitude": -50.68607,
+    "latitude": -8.3763
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000001",
+      "firstName": "Izaiah",
+      "lastName": "Rogahn",
+      "birthDate": -479610000000,
+      "birthCity": "Port Geraldine",
+      "birthNation": "Tuvalu"
+    },
+    "timestamp": 547913823272,
+    "longitude": -68.89112,
+    "latitude": -38.81067
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000003",
+      "firstName": "Bobby",
+      "lastName": "Durgan",
+      "birthDate": 90889200000,
+      "birthCity": "New Tiffanyfort",
+      "birthNation": "Lao People's Democratic Republic"
+    },
+    "timestamp": 1071375979101,
+    "longitude": 34.24176,
+    "latitude": -51.43822
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000006",
+      "firstName": "Eileen",
+      "lastName": "Hansen",
+      "birthDate": -482115600000,
+      "birthCity": "Starktown",
+      "birthNation": "Syrian Arab Republic"
+    },
+    "timestamp": 1357142376487,
+    "longitude": -61.15149,
+    "latitude": 71.80439
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000006",
+      "firstName": "Eileen",
+      "lastName": "Hansen",
+      "birthDate": -482115600000,
+      "birthCity": "Starktown",
+      "birthNation": "Syrian Arab Republic"
+    },
+    "timestamp": 5109046169,
+    "longitude": 68.0207,
+    "latitude": 30.73654
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000004",
+      "firstName": "Rod",
+      "lastName": "Schmitt",
+      "birthDate": -85626000000,
+      "birthCity": "North Alejandrahaven",
+      "birthNation": "Albania"
+    },
+    "timestamp": 122847597386,
+    "longitude": 60.4476,
+    "latitude": 36.40835
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000003",
+      "firstName": "Bobby",
+      "lastName": "Durgan",
+      "birthDate": 90889200000,
+      "birthCity": "New Tiffanyfort",
+      "birthNation": "Lao People's Democratic Republic"
+    },
+    "timestamp": 200285276083,
+    "longitude": -84.64913,
+    "latitude": -6.92453
+  },
+  {
+    "id": null,
+    "user": {
+      "ssn": "0000000000000005",
+      "firstName": "Edward",
+      "lastName": "Erdman",
+      "birthDate": -220237200000,
+      "birthCity": "Port Brayanmouth",
+      "birthNation": "Cocos (Keeling) Islands"
+    },
+    "timestamp": 330590698631,
+    "longitude": -79.48954,
+    "latitude": -47.58622
+  }
+]

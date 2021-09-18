@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bluetooth Client</string>
+    <string name="pressure_min">PressureMin</string>
+    <string name="pressure_max">PressureMax</string>
+    <string name="blood_oxygen_level">Blood Oxygen Level</string>
+    <string name="send_via_bt">SEND VIA BT</string>
+    <string name="heart_beat">HeartBeat</string>
+    <string name="connect">CONNECT</string>
+    <string name="device_name">Device Name</string>
+    <string name="debug_tag">CLIENT_DEBUG</string>
+    <string name="device_name_extra">device_name_key</string>
+    <string name="bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="bluetooth_error">Bluetooth is not supported</string>
+</resources>

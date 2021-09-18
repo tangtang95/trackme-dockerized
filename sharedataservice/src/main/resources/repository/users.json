@@ -1,0 +1,82 @@
+[
+  {
+    "ssn": "0000000000000000",
+    "firstName": "Jerome",
+    "lastName": "Emmerich",
+    "birthDate": -79581600000,
+    "birthCity": "West Rashadfort",
+    "birthNation": "Equatorial Guinea"
+  },
+  {
+    "ssn": "0000000000000001",
+    "firstName": "Izaiah",
+    "lastName": "Rogahn",
+    "birthDate": -479610000000,
+    "birthCity": "Port Geraldine",
+    "birthNation": "Tuvalu"
+  },
+  {
+    "ssn": "0000000000000002",
+    "firstName": "Jo",
+    "lastName": "Gusikowski",
+    "birthDate": -513997200000,
+    "birthCity": "Jacksonside",
+    "birthNation": "Moldova"
+  },
+  {
+    "ssn": "0000000000000003",
+    "firstName": "Bobby",
+    "lastName": "Durgan",
+    "birthDate": 90889200000,
+    "birthCity": "New Tiffanyfort",
+    "birthNation": "Lao People's Democratic Republic"
+  },
+  {
+    "ssn": "0000000000000004",
+    "firstName": "Rod",
+    "lastName": "Schmitt",
+    "birthDate": -85626000000,
+    "birthCity": "North Alejandrahaven",
+    "birthNation": "Albania"
+  },
+  {
+    "ssn": "0000000000000005",
+    "firstName": "Edward",
+    "lastName": "Erdman",
+    "birthDate": -220237200000,
+    "birthCity": "Port Brayanmouth",
+    "birthNation": "Cocos (Keeling) Islands"
+  },
+  {
+    "ssn": "0000000000000006",
+    "firstName": "Eileen",
+    "lastName": "Hansen",
+    "birthDate": -482115600000,
+    "birthCity": "Starktown",
+    "birthNation": "Syrian Arab Republic"
+  },
+  {
+    "ssn": "0000000000000007",
+    "firstName": "Michele",
+    "lastName": "Bogisich",
+    "birthDate": 257295600000,
+    "birthCity": "North Palma",
+    "birthNation": "France"
+  },
+  {
+    "ssn": "0000000000000008",
+    "firstName": "Buster",
+    "lastName": "Hayes",
+    "birthDate": -354848400000,
+    "birthCity": "North Albastad",
+    "birthNation": "Tanzania"
+  },
+  {
+    "ssn": "0000000000000009",
+    "firstName": "Alexanne",
+    "lastName": "Ferry",
+    "birthDate": 839541600000,
+    "birthCity": "Gerardland",
+    "birthNation": "Pitcairn Islands"
+  }
+]
