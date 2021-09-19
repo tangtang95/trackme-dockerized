@@ -27,7 +27,7 @@ import static org.springframework.hateoas.jaxrs.JaxRsLinkBuilder.linkTo;
 @RequestMapping(Constants.PUBLIC_USER_API)
 public class PublicUserController {
 
-    @Value(Constants.SERVER_ADDRESS)
+    @Value(Constants.EXTERNAL_SERVER_ADDRESS)
     private String serverAddress;
 
     @Value(Constants.PORT)

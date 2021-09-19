@@ -23,7 +23,7 @@ import java.util.List;
  */
 public class HrefFilter extends ZuulFilter {
 
-    @Value(Constants.SERVER_ADDRESS)
+    @Value(Constants.EXTERNAL_SERVER_ADDRESS)
     private String serverAddress;
 
     @Value(Constants.PORT)

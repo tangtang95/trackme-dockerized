@@ -8,4 +8,4 @@ FROM openjdk:8-jre-alpine3.9
 RUN mkdir /home/app
 COPY --from=build /home/source/target/api-gateway-1.0.jar /home/app/api-gateway-1.0.jar
 WORKDIR /home/app
-CMD ["java", "-jar", "api-gateway-1.0.jar"]
+CMD ["sh", "-c", "java -jar api-gateway-1.0.jar --server.external-address=${SERVER_EXT_ADDRESS}"]

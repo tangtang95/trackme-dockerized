@@ -1,4 +1,4 @@
-version: "3.9"
+version: "3"
 services:
   rabbit-mq:
     image: rabbitmq:3.9-alpine
@@ -23,6 +23,8 @@ services:
   api-gateway:
     build: ./api-gateway
     restart: always
+    environment: 
+      - SERVER_EXT_ADDRESS=${SERVER_EXT_ADDRESS}
     links:
       - mysql-db
       - rabbit-mq

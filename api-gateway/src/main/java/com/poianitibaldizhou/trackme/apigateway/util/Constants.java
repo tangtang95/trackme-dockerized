@@ -49,6 +49,7 @@ public class Constants {
     public static final String PUBLIC_API = "/public/**";
     public static final String JSON_HREF_QUERY = "$..href";
     public static final String SERVER_ADDRESS = "${server.address}";
+    public static final String EXTERNAL_SERVER_ADDRESS = "${server.external-address}";
     public static final String PORT = "${server.port}";
     public static final String HTTPS_PREFIX = "https://";
     public static final String PORT_SEPARATOR = ":";
