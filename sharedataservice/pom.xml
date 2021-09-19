@@ -130,7 +130,7 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>export</goal>
+                            <goal>compile</goal>
                         </goals>
                     </execution>
                 </executions>
