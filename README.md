@@ -1,7 +1,7 @@
 # Docker version of TrackMe project
 
-This repository contains a docker version of an old university project about microservices with spring framework. Using a framework composed by service registry, API gateway, and a bunch of microservices.
-
+This repository contains a docker version of an old university project, [TrackMe](https://github.com/tangtang95/TrackMe),
+ about microservices with spring framework. Using a framework composed by service registry, API gateway, and a bunch of microservices.
 ## Requirements
 
 - **Docker**
